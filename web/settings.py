@@ -75,8 +75,12 @@ WSGI_APPLICATION = 'web.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'dbkj6dfb8ppd7f',
+        'USER': 'uzgxxailcmwcxw',
+        'PASSWORD': 'ad396670725a4e4f0f436546ac96a7546e5ea0469ca7fc6468dbe6a56da81e2f',
+        'HOST': 'ec2-54-235-94-36.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
@@ -103,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'pt-br'
 
 TIME_ZONE = 'UTC'
 
