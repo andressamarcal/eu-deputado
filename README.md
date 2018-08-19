@@ -22,3 +22,21 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 3. NodeJS >= 10.7.0
 4. Npm >= 6.2.0
 5. Gulp >= 3.9.1
+
+
+# Como rodar o projeto
+
+>frontend
+
+Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
+
+1. cd front
+2. npm install
+3. gulp
+
+
+>backend
+
+Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
+
+1. python3 manage.py runserver
