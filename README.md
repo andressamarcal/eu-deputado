@@ -1,4 +1,4 @@
-Logo: ![Alt](/logo_eudep.jpeg "Eu Deputado")
+![Alt](/logo_eudep.jpeg "Eu Deputado")
 
 
 # eu-deputado
