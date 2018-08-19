@@ -31,7 +31,9 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do projeto e use os comandos:
 
 `cd front`
+
 `npm install`
+
 `gulp`
 
 
