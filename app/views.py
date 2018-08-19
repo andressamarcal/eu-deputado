@@ -10,9 +10,14 @@ class ProposicoesView(TemplateView):
     template_name = ''
 
     def get(self, request):
-        response = requests.get('https://dadosabertos.camara.leg.br/api/v2/proposicoes')
+        response    = requests.get('https://dadosabertos.camara.leg.br/api/v2/proposicoes')
         proposicoes = response.json()
+
+        #keys
+        for i in proposicoes.keys():
+            print(proposicoes.get('id'))
+
         return render(request, 'proposicoes.html', {
-            'id' : proposicoes['id'],
-            'ano': proposicoes['ano'],
-    })
+            #'id' : proposicoes['id'],
+
+            })
