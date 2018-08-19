@@ -26,7 +26,7 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 
 # Como rodar o projeto
 
->Frontend
+*Frontend
 
 Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do projeto e use os comandos:
 
@@ -37,7 +37,7 @@ Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do
 `gulp`
 
 
->Backend
+*Backend
 
 Para rodar o projeto em modo de desenvolvimento, entre no *diretório raiz* do projeto e use os comandos:
 
