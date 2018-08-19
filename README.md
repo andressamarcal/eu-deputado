@@ -1,5 +1,5 @@
-# eu-vereador
->Projeto desenvolvido no IV Hackfest contra a corrupção, em João Pessoa-PB.
+# eu-deputador
+Projeto desenvolvido no IV Hackfest contra a corrupção, em João Pessoa-PB.
 
 *Você já se questionou sobre o que ocorre no Congresso Nacional e o que é discutido em todas aquelas sessões exibidas pela TV Câmara?*
 
