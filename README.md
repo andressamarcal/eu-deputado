@@ -1,7 +1,7 @@
 # eu-vereador
 Projeto desenvolvido no IV Hackfest contra a corrupção, em João Pessoa-PB.
 
-<h3>Você já se questionou sobre o que ocorre no Congresso Nacional e o que é discutido em todas aquelas sessões exibidas pela TV Câmara?</h3>
+Você já se questionou sobre o que ocorre no Congresso Nacional e o que é discutido em todas aquelas sessões exibidas pela TV Câmara?
 
 Pois bem, durante estas sessões estão sendo discutidos projetos de lei, estes consistem em idéias que podem vir a ser transformadas em leis, após ser votada em Congresso Nacional e sancionada pelo Presidente da República. 
 
