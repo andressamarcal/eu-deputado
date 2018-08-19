@@ -1,3 +1,6 @@
+Logo: ![Alt](/logo_eudep.jpeg "Eu Deputado")
+
+
 # eu-deputado
 Projeto desenvolvido no IV Hackfest contra a corrupção, em João Pessoa-PB.
 
