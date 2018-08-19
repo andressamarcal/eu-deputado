@@ -16,7 +16,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Site info
-SITE_NAME = 'Eu Vereador'
+SITE_NAME = 'Eu Deputad@'
 #SITE_DOMAIN = ''
 
 # Quick-start development settings - unsuitable for production
