@@ -13,15 +13,15 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 
 >Backend
 
-1. python >= 3.5.2
-2. pip >= 18.0
-3. Postgresql >= 9.5.14
+* python >= 3.5.2
+* pip >= 18.0
+* Postgresql >= 9.5.14
 
 >Frontend
 
-3. NodeJS >= 10.7.0
-4. Npm >= 6.2.0
-5. Gulp >= 3.9.1
+* NodeJS >= 10.7.0
+* Npm >= 6.2.0
+* Gulp >= 3.9.1
 
 
 # Como rodar o projeto
@@ -30,13 +30,13 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 
 Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
 
-1. cd front
-2. npm install
-3. gulp
+* cd front
+* npm install
+* gulp
 
 
 >backend
 
 Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
 
-1. python3 manage.py runserver
+* python3 manage.py runserver
