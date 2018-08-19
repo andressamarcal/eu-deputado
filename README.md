@@ -30,13 +30,13 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 
 Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do projeto e use os comandos:
 
-* cd front
-* npm install
-* gulp
+`cd front`
+`npm install`
+`gulp`
 
 
 >Backend
 
 Para rodar o projeto em modo de desenvolvimento, entre no *diretório raiz* do projeto e use os comandos:
 
-* python3 manage.py runserver
+`python3 manage.py runserver`
