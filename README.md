@@ -37,8 +37,6 @@ Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do
 `gulp`
 
 
-
-
 <h4>Backend</h4>
 
 Para rodar o projeto em modo de desenvolvimento, entre no *diretório raiz* do projeto e use os comandos:
