@@ -37,6 +37,6 @@ Para rodar o frontend em modo de desenvolvimento, entre no diretório front do p
 
 >Backend
 
-Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
+Para rodar o projeto em modo de desenvolvimento, entre no diretório raiz do projeto e use os comandos:
 
 * python3 manage.py runserver
