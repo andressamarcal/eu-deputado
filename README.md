@@ -15,18 +15,18 @@ O Eu deputado tem como proposta simplificar através de uma representação visu
 
 * python >= 3.5.2
 * pip >= 18.0
-* Postgresql >= 9.5.14
+* postgresql >= 9.5.14
 
 >Frontend
 
-* NodeJS >= 10.7.0
-* Npm >= 6.2.0
-* Gulp >= 3.9.1
+* nodeJS >= 10.7.0
+* npm >= 6.2.0
+* gulp >= 3.9.1
 
 
 # Como rodar o projeto
 
->frontend
+>Frontend
 
 Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
 
@@ -35,7 +35,7 @@ Para rodar o frontend em modo de desenvolvimento, entre no diretório front do p
 * gulp
 
 
->backend
+>Backend
 
 Para rodar o frontend em modo de desenvolvimento, entre no diretório front do projeto e use os comandos:
 
