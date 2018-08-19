@@ -45,4 +45,5 @@ Para rodar o frontend em modo de desenvolvimento, entre no *diretório front* do
 Para rodar o projeto em modo de desenvolvimento, entre no *diretório raiz* do projeto e use os comandos:
 
 `pip3 install -r requirements.txt`
+
 `python3 manage.py runserver`
