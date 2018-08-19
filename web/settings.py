@@ -94,10 +94,10 @@ WSGI_APPLICATION = 'web.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dbkj6dfb8ppd7f',
-        'USER': 'uzgxxailcmwcxw',
-        'PASSWORD': 'ad396670725a4e4f0f436546ac96a7546e5ea0469ca7fc6468dbe6a56da81e2f',
-        'HOST': 'ec2-54-235-94-36.compute-1.amazonaws.com',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
         'PORT': '5432',
     }
 }
@@ -142,8 +142,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
-    'node_modules',
-    'js',
     'icons',
     'scss',
     'css',
